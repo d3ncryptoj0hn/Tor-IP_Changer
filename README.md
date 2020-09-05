@@ -1,5 +1,5 @@
 # Tor-IP_Changer
-Change Your IP every seconds. created by seevik2580 'Seva'
+Change Your IP every seconds. created by seevik2580 'Seva' https://github.com/seevik2580/tor-ip-changer
 
 - request new identity every X seconds interval using TOR client
 
