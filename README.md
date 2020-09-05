@@ -6,7 +6,7 @@ Change Your IP every seconds. created by seevik2580 'Seva'
 
 ## i will take no responsibility !!! it is for educational purposes only request new identity every X seconds interval using TOR client
 
-Executable for Linux:
+# Executable for Linux:
 - linux [1.2.3]
 
 # example of usage:
